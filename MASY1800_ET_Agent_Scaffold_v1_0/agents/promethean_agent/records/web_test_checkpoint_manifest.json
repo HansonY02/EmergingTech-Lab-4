@@ -1,0 +1,166 @@
+{
+  "agents/promethean_agent/README.md": {
+    "bytes": 668,
+    "sha256": "75a24d033e7c8c0121c33a4a985f69d10946c7a73809b82db276af9825f3d173"
+  },
+  "agents/promethean_agent/agent_metadata.json": {
+    "bytes": 226,
+    "sha256": "920a25e68fc85f792dab44539fe5b14429e933d0b3ac1d78957a483337cc3a4b"
+  },
+  "agents/promethean_agent/specialist_instructions.md": {
+    "bytes": 7211,
+    "sha256": "7211e1acb3151df947f1ab3568e93f3db3449fa3d72a01428da14ebef405fc91"
+  },
+  "agents/promethean_agent/cases/contrast_2.json": {
+    "bytes": 5508,
+    "sha256": "9c2c6ca7b1dec043da616912ab504f6dab1c71b21302c933ae0c17ac269cb293"
+  },
+  "agents/promethean_agent/cases/primary.json": {
+    "bytes": 5229,
+    "sha256": "146626d30b394650330afda938021c6a07242b1f5cd2fa58fdff8f9874753309"
+  },
+  "agents/promethean_agent/cases/contrast_1.json": {
+    "bytes": 5290,
+    "sha256": "e10d5165664261a4b64dc119cba41b14ab03dd8c70df90f4332123efa33d1b47"
+  },
+  "agents/promethean_agent/responses/.gitkeep": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "agents/promethean_agent/responses/contrast_2_response.json": {
+    "bytes": 31294,
+    "sha256": "2ea79444c2db464dec08bb3f0d0a60a9623cecb9bdcdb117e2dc1b02b75751a4"
+  },
+  "agents/promethean_agent/responses/primary_response.json": {
+    "bytes": 26957,
+    "sha256": "a07cf16437fbf0a5b0d99c110c9c3a01227950567dc56607ef3f048734c60d3c"
+  },
+  "agents/promethean_agent/responses/contrast_1_response.json": {
+    "bytes": 32304,
+    "sha256": "4a10d814c1b50f4c176019254ddd66e2cf674e3f74c9859b0d0c9fa0343545f2"
+  },
+  "agents/promethean_agent/records/web_run_log.json": {
+    "bytes": 3799,
+    "sha256": "89b6e88b9fbf1d52a367c04c1c8fab192bf1ed6fb70ebd1d889f71c6392f2e97"
+  },
+  "agents/promethean_agent/records/real_web_test_record.md": {
+    "bytes": 5297,
+    "sha256": "dce89c41532bd1ee79f2f072b225f0304ee488f612690527175488e10c33b93d"
+  },
+  "agents/promethean_agent/records/evidence_brief.md": {
+    "bytes": 3516,
+    "sha256": "91246e2d60ff5dbce70fb010c27029c7c68e68499c83c2747307b3bfd09de9e6"
+  },
+  "agents/promethean_agent/records/agent_record.md": {
+    "bytes": 3896,
+    "sha256": "5b198c446feb7aa287ccc824c7605ff26a1e2972f0d9eac0046a6fe791073f76"
+  },
+  "agents/promethean_agent/records/web_validation_results.json": {
+    "bytes": 1691,
+    "sha256": "d211ce11d32c2512b76a780da9c586315ccf14f76f6d956e13dde1b90e6b7e91"
+  },
+  "agents/promethean_agent/records/validate_web_runs.py": {
+    "bytes": 2780,
+    "sha256": "387459d94638d7a91d94eee735fe38659a99d12a3c854a026d3b3bb600ea1c01"
+  },
+  "agents/promethean_agent/records/revision_diagnosis.md": {
+    "bytes": 1388,
+    "sha256": "d1c5b510f24c3287e01aa4933973f0444909419adca5e7d6fdfa7d5fcf008ed2"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/agent_metadata.json": {
+    "bytes": 226,
+    "sha256": "71e4f3298c5b001f5c49a948d69fa7c1f71d76df0f2b155c87e93e7c21e4a554"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/export_integrity.json": {
+    "bytes": 766,
+    "sha256": "35aa8ae70820deb0bd45e2c3d0db3038e96048300d472d81e7a69248b8b5534c"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/specialist_instructions.md": {
+    "bytes": 5805,
+    "sha256": "569837071e86172338ee382d704a6a548a5d241cd9358879eb49411b7057f3ce"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/contrast_1_prompt.txt": {
+    "bytes": 15514,
+    "sha256": "3410d86564da65775b007a2b4d96d980dce78d20b61bfce4fe776f30fdfbb1c0"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/run_status.json": {
+    "bytes": 820,
+    "sha256": "2e4708793481698a0408c73f10766934d9d10ece723131dd4e1005eee9dd15e0"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/primary_prompt.txt": {
+    "bytes": 15453,
+    "sha256": "713fb7b7311266273b0e22e64907343e2e9eeae2ce80f438750e3c0ade44b17e"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/contrast_2_response.json": {
+    "bytes": 28850,
+    "sha256": "28f272930c2f71c12c446f21c16e40d7f78dfdb42d7cd8f30838e631b5770352"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/primary_response.json": {
+    "bytes": 25395,
+    "sha256": "bc4c7c73e6a88c07e72eae4ea9fea7ff328db37e6ea84e78f4d677d026a28dcc"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/contrast_2_prompt.txt": {
+    "bytes": 15732,
+    "sha256": "f7baf51f8cea84dd88eb6038f5eada4b5164125f531fda2f69cbca3605efd26b"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/contrast_1_response.json": {
+    "bytes": 29265,
+    "sha256": "7effa314cd55fcb1af3c5af37b6eddf7058b8d6cfcde0e385d50c98b7828b156"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/pre_run_status.json": {
+    "bytes": 654,
+    "sha256": "32240f4598a44a1c659e9fc0c80e0801794a4f7f547b7bc789dbb1b5715e433f"
+  },
+  "agents/promethean_agent/records/pre_specialization_template/agents/promethean_agent/agent_metadata.json": {
+    "bytes": 138,
+    "sha256": "4a213ea28c5ea3482a4e4b95c0161ebe1cd722e8e9f1769ccc07a649db0c4f61"
+  },
+  "agents/promethean_agent/records/pre_specialization_template/agents/promethean_agent/specialist_instructions.md": {
+    "bytes": 1373,
+    "sha256": "0d626263db426f741cd0432318fce7e296de5c34a29bf524925501f647c65505"
+  },
+  "agents/promethean_agent/records/pre_specialization_template/agents/promethean_agent/cases/contrast_2.json": {
+    "bytes": 409,
+    "sha256": "4e0beb00243ed0f90feddf7d5b24bc1fac8f8ad6c3310ad2221bcde745305d21"
+  },
+  "agents/promethean_agent/records/pre_specialization_template/agents/promethean_agent/cases/primary.json": {
+    "bytes": 409,
+    "sha256": "4e0beb00243ed0f90feddf7d5b24bc1fac8f8ad6c3310ad2221bcde745305d21"
+  },
+  "agents/promethean_agent/records/pre_specialization_template/agents/promethean_agent/cases/contrast_1.json": {
+    "bytes": 409,
+    "sha256": "4e0beb00243ed0f90feddf7d5b24bc1fac8f8ad6c3310ad2221bcde745305d21"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/cases/contrast_2.json": {
+    "bytes": 5508,
+    "sha256": "9c2c6ca7b1dec043da616912ab504f6dab1c71b21302c933ae0c17ac269cb293"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/cases/primary.json": {
+    "bytes": 5229,
+    "sha256": "146626d30b394650330afda938021c6a07242b1f5cd2fa58fdff8f9874753309"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/cases/contrast_1.json": {
+    "bytes": 5290,
+    "sha256": "e10d5165664261a4b64dc119cba41b14ab03dd8c70df90f4332123efa33d1b47"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/downloaded_exports/contrast_1_export.json": {
+    "bytes": 29677,
+    "sha256": "91ca2d9f76e8a0140ea31e4c342f7ff4afdea2b5ddb0360a37e4391dd2788684"
+  },
+  "agents/promethean_agent/records/baseline_v0_1/downloaded_exports/contrast_2_export.json": {
+    "bytes": 29315,
+    "sha256": "aefd5e77cca794fd569521059096f793ced8ba6aa92d14987654b631b2ab6ba0"
+  },
+  "work/promethean_agent_contrast_1_prompt.txt": {
+    "bytes": 16920,
+    "sha256": "47e582181dd555c6c18ffb5e16d1d8a5d1478e6167f37c239231c61e4e3396ac"
+  },
+  "work/promethean_agent_primary_prompt.txt": {
+    "bytes": 16859,
+    "sha256": "31d9be7da0b900b69a1fb6204c162f41276ee90192040a1870fc161c8fdbad1a"
+  },
+  "work/promethean_agent_contrast_2_prompt.txt": {
+    "bytes": 17138,
+    "sha256": "16b1753fa3e7e5094a1e65ecdfd0c2ec794029acc27553d3b248e1bc446d54fc"
+  }
+}

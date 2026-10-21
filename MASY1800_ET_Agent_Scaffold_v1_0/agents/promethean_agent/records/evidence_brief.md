@@ -1,0 +1,17 @@
+# Evidence brief — current verification
+
+Verification date: 2026-10-21. Original pages were opened through the web retrieval tool in this session; these are not claims that the user's curl commands were executed. Organizational cases are fictional assumptions. No field trial, local ROI, or model test result is implied.
+
+E1 — Noy and Zhang, Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence. https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf . The retrieved version is dated March 2, 2023 and marked Working Paper (not peer reviewed). Its first three pages describe a preregistered writing experiment with 444 college-educated professionals. The abstract reports reduced completion time and improved judged quality. These are bounded writing-task findings, not proof of clinical competence, 10x end-to-end organizational value, or civilizational irreversibility. Do not substitute figures from a different published version.
+
+E2 — https://www.nber.org/papers/w31161 . The user reports an earlier successful direct read. This session's retrieval returned 403; no current verification of that page is claimed. Do not use numerical claims from this unavailable page as newly verified evidence.
+
+E3 — METR, July 10, 2025. https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ . The original research organization's report describes 16 experienced open-source developers working on 246 issues; AI-allowed work took 19% longer in this setting. This is contrary evidence to universal productivity claims, not evidence that AI never helps or a current universal estimate.
+
+E4 — METR, February 24, 2026. https://metr.org/blog/2026-02-24-uplift-update/ . The authors describe substantial selection and timing-measurement problems in a later experiment. They consider greater acceleration plausible but regard these data as weak evidence of its size. This prevents treating the early-2025 slowdown as a settled 2026 estimate; it does not establish a precise new universal speedup.
+
+E5 — WHO, January 18, 2024. https://www.who.int/news/item/18-01-2024-who-releases-ai-ethics-and-governance-guidance-for-large-multi-modal-models . The official release describes potential healthcare uses and risks including false or incomplete statements, automation bias and information security. It supports the need for task validation and oversight; it is guidance, not evidence that this proposed clinical system is effective or authorized. Only the release was read, not the full linked guidance.
+
+Framework reference — Fortino, course Chapter 11, August 2026 draft rev 0.1, sections 11.2 and 11.7, previously read in this conversation. System/component boundary; barrier statement and suppression test; six criteria: order-of-magnitude improvement, widespread impact, paradigm shift, catalytic effect, democratization and irreversibility. Emerging technologies have a Potential, not Confirmed, ceiling. The framework is a course instrument rather than established empirical consensus.
+
+Historical access failures reported by the user: web search failed, NIST retrieval encountered TLS error, Science returned 403. Those historical failures are not retroactively changed by this verification. This run used direct page opening, not search queries. NIST and Science were not retried or used as verified evidence here. Source access does not by itself validate every statement on a source page. No exhaustive October 2026 review was conducted.

@@ -1,0 +1,19 @@
+{
+  "version": "0.1-student",
+  "status": "three_real_web_responses_completed_and_saved",
+  "runtime": "ChatGPT web through CUA only; not OpenAI API",
+  "case_names": [
+    "primary",
+    "contrast_1",
+    "contrast_2"
+  ],
+  "prompt_sha256": {
+    "primary": "713fb7b7311266273b0e22e64907343e2e9eeae2ce80f438750e3c0ade44b17e",
+    "contrast_1": "3410d86564da65775b007a2b4d96d980dce78d20b61bfce4fe776f30fdfbb1c0",
+    "contrast_2": "f7baf51f8cea84dd88eb6038f5eada4b5164125f531fda2f69cbca3605efd26b"
+  },
+  "note": "No response JSON files or test success claims exist yet. v0.2 must follow actual observed weakness and revision, not retrospective fabrication.",
+  "validation": "all_three_fail_full_schema_due_to_forbidden_schema_and_title",
+  "log": "../web_run_log.json",
+  "export_integrity": "export_integrity.json"
+}

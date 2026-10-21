@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-10-21T02:31:29.892121-04:00",
+  "course_validator": [
+    {
+      "path": "agents/promethean_agent/responses/primary_response.json",
+      "returncode": 0,
+      "stdout": "VALIDATION PASSED",
+      "stderr": ""
+    },
+    {
+      "path": "agents/promethean_agent/responses/contrast_1_response.json",
+      "returncode": 0,
+      "stdout": "VALIDATION PASSED",
+      "stderr": ""
+    },
+    {
+      "path": "agents/promethean_agent/responses/contrast_2_response.json",
+      "returncode": 0,
+      "stdout": "VALIDATION PASSED",
+      "stderr": ""
+    },
+    {
+      "path": "agents/promethean_agent/records/baseline_v0_1/primary_response.json",
+      "returncode": 0,
+      "stdout": "VALIDATION PASSED",
+      "stderr": ""
+    },
+    {
+      "path": "agents/promethean_agent/records/baseline_v0_1/contrast_1_response.json",
+      "returncode": 0,
+      "stdout": "VALIDATION PASSED",
+      "stderr": ""
+    },
+    {
+      "path": "agents/promethean_agent/records/baseline_v0_1/contrast_2_response.json",
+      "returncode": 0,
+      "stdout": "VALIDATION PASSED",
+      "stderr": ""
+    }
+  ],
+  "formal_schema": {
+    "engine": "jsonschema.Draft202012Validator",
+    "agents/promethean_agent/cases/contrast_1.json": {
+      "status": "PASS",
+      "errors": []
+    },
+    "agents/promethean_agent/cases/contrast_2.json": {
+      "status": "PASS",
+      "errors": []
+    },
+    "agents/promethean_agent/cases/primary.json": {
+      "status": "PASS",
+      "errors": []
+    },
+    "agents/promethean_agent/responses/primary_response.json": {
+      "status": "PASS",
+      "errors": []
+    },
+    "agents/promethean_agent/responses/contrast_1_response.json": {
+      "status": "PASS",
+      "errors": []
+    },
+    "agents/promethean_agent/responses/contrast_2_response.json": {
+      "status": "PASS",
+      "errors": []
+    },
+    "agents/promethean_agent/records/baseline_v0_1/primary_response.json": {
+      "status": "FAIL",
+      "errors": [
+        "Additional properties are not allowed ('$schema', 'title' were unexpected)"
+      ]
+    },
+    "agents/promethean_agent/records/baseline_v0_1/contrast_1_response.json": {
+      "status": "FAIL",
+      "errors": [
+        "Additional properties are not allowed ('$schema', 'title' were unexpected)"
+      ]
+    },
+    "agents/promethean_agent/records/baseline_v0_1/contrast_2_response.json": {
+      "status": "FAIL",
+      "errors": [
+        "Additional properties are not allowed ('$schema', 'title' were unexpected)"
+      ]
+    }
+  },
+  "controls": {
+    "same_technology": true,
+    "hype_changed_fields": [
+      "adoption_posture",
+      "additional_context"
+    ],
+    "adoption_posture_only": false,
+    "cases_identical_to_baseline": {
+      "primary": true,
+      "contrast_1": true,
+      "contrast_2": true
+    }
+  },
+  "original_integrity": {
+    "requested_filename_present": false,
+    "claimed_sha256": "3875e8924556b2801c572390fb2c90e5957aea452d33312a31084e1f3712e754",
+    "claimed_sha256_length": 64,
+    "actual_filename": "MASY1800_ET_Agent_Scaffold_v1_0.zip",
+    "actual_sha256": "3875e8924556b2801c572390fb2c90e5957aea452d33312a31084e1f3712e754",
+    "claimed_hash_matches": true,
+    "original_file_count": 32,
+    "differences": [],
+    "all_original_files_byte_identical": true
+  },
+  "frozen_core": {
+    "returncode": 0,
+    "output": "FROZEN CORE INTACT"
+  }
+}

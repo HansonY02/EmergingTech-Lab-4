@@ -1,0 +1,19 @@
+{
+  "comparison": "Parsed JSON comparison with recursive object-key normalization; array order and all values preserved",
+  "primary": {
+    "same_as_original": true
+  },
+  "contrast_1": {
+    "same_as_original": true
+  },
+  "contrast_2": {
+    "same_as_original": false,
+    "changed_fields": [
+      "evidence",
+      "recommendation_management_implication"
+    ],
+    "canonical_response": "contrast_2_response.json",
+    "handling": "Keep original web response as baseline. Retain downloaded export separately; do not substitute it."
+  },
+  "runtime_note": "After the third export the ChatGPT page reported data-analysis quota exhaustion. Subsequent web responses can be preserved directly from rendered text; do not claim downloadable exports if unavailable."
+}

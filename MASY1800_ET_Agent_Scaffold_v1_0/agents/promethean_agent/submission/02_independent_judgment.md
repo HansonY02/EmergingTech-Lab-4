@@ -1,0 +1,7 @@
+# Independent Professional Judgment
+
+The evidence supports a provisional breakthrough classification for deployed generative AI, with potentially Promethean implications that remain unproven. The supplied writing experiment supports task-level benefits; METR's study and methodological update caution against uniform productivity assumptions. These sources do not establish tenfold end-to-end gains, cross-tier barrier dissolution, or durable civilizational dependence. Management should have moderate confidence in bounded capability improvements and lower confidence in the higher classification.
+
+For the fictional software company, supervised marketing drafting can advance to a limited pilot after offline evaluation and data-handling, quality, review-capacity, and cost gates are satisfied. Broader technological significance justifies learning, not automatic rollout. Autonomous clinical recommendations should wait for application-specific validation, qualified oversight, and accountability because consequences and capability gaps differ.
+
+I would reconsider the general classification if independent, sustained evidence demonstrated a credible barrier-dissolution mechanism across multiple tiers of human life and durable dependent innovations. I would reconsider local deployment separately, using measured outcomes against pre-agreed criteria. A higher technology classification would not remove those local requirements.

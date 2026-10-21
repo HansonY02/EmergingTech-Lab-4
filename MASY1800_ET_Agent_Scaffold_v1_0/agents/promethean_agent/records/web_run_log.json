@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-21",
+  "runtime": "ChatGPT website through CUA browser, no OpenAI API, no shell model invocation",
+  "model": "Default model offered by the signed-in ChatGPT web account; exact backend model ID not independently verified",
+  "test_count": 6,
+  "independent_conversations": 6,
+  "cases_unchanged": true,
+  "source_evidence_unchanged": true,
+  "runs": [
+    {
+      "version": "0.1-student",
+      "case": "primary",
+      "url": "https://chatgpt.com/c/6ad85611-d094-83ea-9c4e-2dfab2fd9719",
+      "status": "response_complete",
+      "source": "Independent ChatGPT web conversation controlled through CUA",
+      "canonical_saved_path": "records/baseline_v0_1/primary_response.json",
+      "download_verified_equal": true
+    },
+    {
+      "version": "0.2-student",
+      "case": "primary",
+      "url": "https://chatgpt.com/c/6ad857bb-5910-83ea-a74c-647d1c1724ed",
+      "status": "response_complete",
+      "source": "Independent ChatGPT web conversation controlled through CUA; exact rendered JSON captured, not locally generated",
+      "canonical_saved_path": "responses/primary_response.json",
+      "download_verified_equal": null,
+      "export_note": "Not requested: page reported data-analysis quota exhausted after baseline exports. JSON saved directly from original rendered response."
+    },
+    {
+      "version": "0.1-student",
+      "case": "contrast_1",
+      "url": "https://chatgpt.com/c/6ad85687-9530-83e9-adfe-fade25a5c262",
+      "status": "response_complete",
+      "source": "Independent ChatGPT web conversation controlled through CUA",
+      "canonical_saved_path": "records/baseline_v0_1/contrast_1_response.json",
+      "download_verified_equal": true
+    },
+    {
+      "version": "0.2-student",
+      "case": "contrast_1",
+      "url": "https://chatgpt.com/c/6ad857f5-94e4-83ea-86d5-63ae16d27f82",
+      "status": "response_complete",
+      "source": "Independent ChatGPT web conversation controlled through CUA; exact rendered JSON captured, not locally generated",
+      "canonical_saved_path": "responses/contrast_1_response.json",
+      "download_verified_equal": null,
+      "export_note": "Not requested: page reported data-analysis quota exhausted after baseline exports. JSON saved directly from original rendered response."
+    },
+    {
+      "version": "0.1-student",
+      "case": "contrast_2",
+      "url": "https://chatgpt.com/c/6ad856cc-811c-83ea-850f-ab787a348029",
+      "status": "response_complete",
+      "source": "Independent ChatGPT web conversation controlled through CUA",
+      "canonical_saved_path": "records/baseline_v0_1/contrast_2_response.json",
+      "download_verified_equal": false
+    },
+    {
+      "version": "0.2-student",
+      "case": "contrast_2",
+      "url": "https://chatgpt.com/c/6ad857ff-4bdc-83ea-9bb4-a810b2b3534c",
+      "status": "response_complete",
+      "source": "Independent ChatGPT web conversation controlled through CUA; exact rendered JSON captured, not locally generated",
+      "canonical_saved_path": "responses/contrast_2_response.json",
+      "download_verified_equal": null,
+      "export_note": "Not requested: page reported data-analysis quota exhausted after baseline exports. JSON saved directly from original rendered response."
+    }
+  ],
+  "known_limitations": [
+    "One run per version and case; not a statistical reliability study or blinded independent review.",
+    "Same signed-in account; new conversations isolate transcript context but account-level personalization was not independently audited.",
+    "Supplied validator does not enforce forbidden extra properties; complementary declared-schema constraint checker used.",
+    "Baseline contrast_2 downloaded export differs from original response; original retained as canonical, export retained separately."
+  ]
+}

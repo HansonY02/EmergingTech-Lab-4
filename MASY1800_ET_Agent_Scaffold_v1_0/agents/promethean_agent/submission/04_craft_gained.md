@@ -1,0 +1,3 @@
+# Craft Gained
+
+I was surprised by how much judgment is required beyond getting an agent to produce valid output. The marketing and clinical contrast tests made the distinction concrete: a stable technology classification still required different recommendations because oversight, capabilities, and consequences differed. Next time, I will design the contrasts before writing the specialist instructions, specifying which findings should remain stable and which decisions should change. I will use those expectations to judge whether the agent reasons appropriately, rather than treating valid JSON as evidence of sound professional judgment.

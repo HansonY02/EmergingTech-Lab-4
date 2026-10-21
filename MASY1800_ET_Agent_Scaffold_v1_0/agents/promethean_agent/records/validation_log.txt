@@ -1,0 +1,42 @@
+ACTUAL VALIDATION RUN — 2026-10-21T02:31:29.892121-04:00
+$ python3 tools/validate_response.py agents/promethean_agent/responses/primary_response.json
+VALIDATION PASSED
+EXIT CODE: 0
+$ python3 tools/validate_response.py agents/promethean_agent/responses/contrast_1_response.json
+VALIDATION PASSED
+EXIT CODE: 0
+$ python3 tools/validate_response.py agents/promethean_agent/responses/contrast_2_response.json
+VALIDATION PASSED
+EXIT CODE: 0
+$ python3 tools/validate_response.py agents/promethean_agent/records/baseline_v0_1/primary_response.json
+VALIDATION PASSED
+EXIT CODE: 0
+$ python3 tools/validate_response.py agents/promethean_agent/records/baseline_v0_1/contrast_1_response.json
+VALIDATION PASSED
+EXIT CODE: 0
+$ python3 tools/validate_response.py agents/promethean_agent/records/baseline_v0_1/contrast_2_response.json
+VALIDATION PASSED
+EXIT CODE: 0
+INPUT FORMAL SCHEMA PASSED: agents/promethean_agent/cases/contrast_1.json
+INPUT FORMAL SCHEMA PASSED: agents/promethean_agent/cases/contrast_2.json
+INPUT FORMAL SCHEMA PASSED: agents/promethean_agent/cases/primary.json
+OUTPUT FORMAL SCHEMA PASSED: agents/promethean_agent/responses/primary_response.json
+OUTPUT FORMAL SCHEMA PASSED: agents/promethean_agent/responses/contrast_1_response.json
+OUTPUT FORMAL SCHEMA PASSED: agents/promethean_agent/responses/contrast_2_response.json
+OUTPUT FORMAL SCHEMA FAILED: agents/promethean_agent/records/baseline_v0_1/primary_response.json
+  Additional properties are not allowed ('$schema', 'title' were unexpected)
+OUTPUT FORMAL SCHEMA FAILED: agents/promethean_agent/records/baseline_v0_1/contrast_1_response.json
+  Additional properties are not allowed ('$schema', 'title' were unexpected)
+OUTPUT FORMAL SCHEMA FAILED: agents/promethean_agent/records/baseline_v0_1/contrast_2_response.json
+  Additional properties are not allowed ('$schema', 'title' were unexpected)
+SAME TECHNOLOGY: True
+HYPE CHANGED FIELDS: ['adoption_posture', 'additional_context']
+ADOPTION-POSTURE-ONLY CONTROL: FAIL
+CASES UNCHANGED ACROSS VERSIONS: True
+ACTUAL ORIGINAL ZIP: MASY1800_ET_Agent_Scaffold_v1_0.zip
+ACTUAL ORIGINAL ZIP SHA256: 3875e8924556b2801c572390fb2c90e5957aea452d33312a31084e1f3712e754
+SUPPLIED CLAIMED SHA256 LENGTH: 64
+CLAIMED SHA256 MATCH: True
+ORIGINAL FILES COMPARED: 32
+ORIGINAL FILE DIFFERENCES: []
+FROZEN CORE INTACT

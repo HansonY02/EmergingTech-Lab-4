@@ -1,0 +1,57 @@
+{
+  "checker_scope": "All constraint keywords actually used in these schemas: type, required, properties, additionalProperties, items. Not a general-purpose JSON Schema implementation.",
+  "inputs": {
+    "primary": [],
+    "contrast_1": [],
+    "contrast_2": []
+  },
+  "baseline_v0_1": {
+    "primary": {
+      "status": "fail",
+      "schema_errors": [
+        "$: forbidden property $schema",
+        "$: forbidden property title"
+      ],
+      "supplied_basic_validator_returncode": 0,
+      "supplied_basic_validator_output": "VALIDATION PASSED"
+    },
+    "contrast_1": {
+      "status": "fail",
+      "schema_errors": [
+        "$: forbidden property $schema",
+        "$: forbidden property title"
+      ],
+      "supplied_basic_validator_returncode": 0,
+      "supplied_basic_validator_output": "VALIDATION PASSED"
+    },
+    "contrast_2": {
+      "status": "fail",
+      "schema_errors": [
+        "$: forbidden property $schema",
+        "$: forbidden property title"
+      ],
+      "supplied_basic_validator_returncode": 0,
+      "supplied_basic_validator_output": "VALIDATION PASSED"
+    }
+  },
+  "revised_v0_2": {
+    "primary": {
+      "status": "pass",
+      "schema_errors": [],
+      "supplied_basic_validator_returncode": 0,
+      "supplied_basic_validator_output": "VALIDATION PASSED"
+    },
+    "contrast_1": {
+      "status": "pass",
+      "schema_errors": [],
+      "supplied_basic_validator_returncode": 0,
+      "supplied_basic_validator_output": "VALIDATION PASSED"
+    },
+    "contrast_2": {
+      "status": "pass",
+      "schema_errors": [],
+      "supplied_basic_validator_returncode": 0,
+      "supplied_basic_validator_output": "VALIDATION PASSED"
+    }
+  }
+}

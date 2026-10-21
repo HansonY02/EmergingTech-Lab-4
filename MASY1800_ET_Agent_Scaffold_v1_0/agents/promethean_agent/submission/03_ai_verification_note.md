@@ -1,0 +1,7 @@
+# AI / Verification Note
+
+ChatGPT/Codex helped translate the course framework into specialist instructions, prepare contrasting cases, build prompt packets, operate six independent ChatGPT website conversations through CUA, diagnose observed failures, and organize the submission. No OpenAI API or shell-based model runtime was used; Python handled file construction, hashing, and validation.
+
+Consequential factual claims were grounded in retrieved original material: the March 2023 Noy–Zhang MIT working-paper version, METR's July 2025 study and February 2026 methodological update, and WHO's January 2024 official release. Their scope and limitations are recorded in evidence_brief.md. The current NBER retrieval returned 403; earlier reported NIST/Science failures were not reclassified as verified evidence. The course chapter supplied the analytical instrument rather than empirical proof of civilization-changing effects.
+
+All six saved responses passed the course's basic validator. Formal Draft 2020-12 checks passed the three final responses but rejected the three preserved baselines for forbidden extra properties. Original ZIP checks confirmed 32 byte-identical files and an intact frozen core. One downloaded baseline export changed two fields; its original webpage JSON and divergent export were retained separately. Final replies were captured directly from their original webpage JSON after data-analysis quota exhaustion. These checks establish traceability and structural compliance, not factual infallibility or deployment safety.
